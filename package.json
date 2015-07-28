@@ -1,0 +1,35 @@
+{
+  "name": "isomorphic_blogging_app",
+  "version": "1.0.0",
+  "description": "Isomorphic blogging app using React and Flux",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r3nya/isomorphic_blogging_app.git"
+  },
+  "keywords": [
+    "react",
+    "flux",
+    "alt",
+    "blog"
+  ],
+  "author": "Andrew M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r3nya/isomorphic_blogging_app/issues"
+  },
+  "homepage": "https://github.com/r3nya/isomorphic_blogging_app#readme",
+  "dependencies": {
+    "alt": "^0.17.1",
+    "babel": "^5.8.9",
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "express-session": "^1.11.3",
+    "jade": "^1.11.0",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3"
+  }
+}
